@@ -1,0 +1,55 @@
+{
+    "INDSYS": [
+        "Teknik Mesin",
+        "Teknik Kimia",
+        "Teknik Fisika",
+        "Teknik Sistem dan Industri",
+        "Teknik Material"
+    ],
+    "ELECTICS": [
+        "Teknik Elektro",
+        "Teknik Biomedik",
+        "Teknik Komputer",
+        "Teknik Informatika",
+        "Sistem Informasi",
+        "Teknologi Informas"
+    ],
+    "SCIENTICS": [
+        "Fisika",
+        "Matematika",
+        "Statistika",
+        "Kimia",
+        "Biologi",
+        "Aktuaria"
+    ],
+    "MARTECH": [
+        "Teknik Perkapalan",
+        "Teknik Sistem Perkapalan",
+        "Teknik Kelautan",
+        "Teknik Transportasi Laut"
+    ],
+    "CIVPLAN": [
+        "Teknik Sipil",
+        "Arsitektur",
+        "Teknik Lingkungan",
+        "Perencanaan Wilayah dan Kota",
+        "Teknik Geomatika",
+        "Teknik Geofisika"
+    ],
+    "CREABIZ": [
+        "Desain Produk Industri",
+        "Desain Interior",
+        "Desain Komunikasi Visual",
+        "Manajemen Bisnis",
+        "Studi Pembangunan",
+        "Manajemen Teknologi"
+    ],
+    "VOCATIONS": [
+        "Teknik Infrastruktur Sipil",
+        "Teknik Mesin Industri",
+        "Teknik Elektro Otomasi",
+        "Teknik Kimia Industri",
+        "Teknik Instrumensasi",
+        "Statistika Bisnis"
+    ]
+}
